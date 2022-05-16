@@ -8,16 +8,16 @@ Le projet FLOOD AR est un projet scientifique pluridisciplinaire qui vise à la 
 
 Le projet a été conduit par la composante EVS-ISTHME de l'UMR CRNS 5600 “Environnement, Ville et Société” et géré par l'Université de Saint-Etienne. Pluridisciplinaire, il a rassemblé des chercheurs :
 
--en géographie et géomatique de l'UMR CNRS 5600,
--en sciences de l'information et de la communication de l'équipe Elico de l'EA 4147,
--en informatique du Laboratoire d'Informatique en Image et Systèmes d'information (LIRIS) de l'UMR CNRS 5205.
+- en géographie et géomatique de l'UMR CNRS 5600,
+- en sciences de l'information et de la communication de l'équipe Elico de l'EA 4147,
+- en informatique du Laboratoire d'Informatique en Image et Systèmes d'information (LIRIS) de l'UMR CNRS 5205.
 
 
 ## Livrables du projet
 Les méthodes et outils développés dans le cadre du projet sont mis à disposition afin que la démarche puisse être reproduite sur d'autres territoires.
 
 ### Support de présentation du projet
-La présentation générale du projet et de son déroulement est téléchargeable en format PDF à ce lien.
+La présentation générale du projet et de son déroulement est téléchargeable [en format PDF](assets/PRESENTATION_PROJET_FLOODAR.pdf).
 
 Des films de présentation des dispositifs produits sont mis à disposition via Dailymotion ([Outil Tablette](http://www.dailymotion.com/video/x5evbbi_flood-ar-outil-tablette-protocole-et-utilisation-sur-site_school) et [Outil Smartphone](http://www.dailymotion.com/video/x5ev9jx_flood-ar-outil-smartphone-demo-et-utilisation-sur-site-sablons-2016_school)).
 
