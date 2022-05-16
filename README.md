@@ -21,5 +21,13 @@ La présentation générale du projet et de son déroulement est téléchargeabl
 
 Des films de présentation des dispositifs produits sont mis à disposition via Dailymotion ([Outil Tablette](http://www.dailymotion.com/video/x5evbbi_flood-ar-outil-tablette-protocole-et-utilisation-sur-site_school) et [Outil Smartphone](http://www.dailymotion.com/video/x5ev9jx_flood-ar-outil-smartphone-demo-et-utilisation-sur-site-sablons-2016_school)).
 
+### Méthodologie 
+La méhtode employée est décrite dans les fichiers suivants : 
+
+- méthodologie générale
+- annexe 1 - géoréférencer des objets modélisés en 3D pour un export en OBJ avec SketchUp
+- annexe 2 - génération des vues avec Spaceyes 3D
+- annexe 3 - créer une visite virtuelle avec la logiciel Panotour
+
 ## Financeurs
 Le projet “Géovisualisations 3D, réalité virtuelle et réalité augmentée au service de la sensibilisation du public au risque d’inondation” a été financé dans le cadre du volet “Inondation” du [Plan Rhône-Saône 2014-2020](https://www.plan-rhone.fr/) par des fonds [FEDER de l'Union Européenne](https://www.europe-en-france.gouv.fr/fr/fonds-europeens/fonds-europeen-de-developpement-regional-FEDER), des fonds de la [Compagnie nationale du rhône (CNR)](https://www.cnr.tm.fr/) et des fonds de l'[Etat Français](https://www.plan-rhone.fr/le-plan-rhone/les-partenaires-signataires-du-plan-rhone-329.html). Il a également soutenu par le Programme d'avenir Lyon-Saint-Etienne (PALSE) dans le cadre de l'initiative “Image et perceptions embarquées” (PALSE-IPEm). Géovisualisations 3D a été cofinancé par l’Union Européenne dans le cadre du [Programme Opérationnel Interrégional FEDER Rhône-Saône 2014-2020](https://www.europe-en-auvergnerhonealpes.eu/programmes/le-programme-operationnel-interregional-feder-rhone-saone).
