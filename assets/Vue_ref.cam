@@ -1,0 +1,71 @@
+SpacEyes3D Animation File
+ Version major : 6
+ Version minor : 1
+ Animation{
+  Sequence{
+   Name : 1_BOTTOM
+   Initial camera{
+	Up : -1.3662637e-25,1,4.1020698e-10
+    Position : 837675.55,6476160.2,523.80185
+    Center : 837914.75,6476946.2,531.904
+    Dir : 0,-0.999,-0.001
+    Roll : 0
+    ViewAngle : 1.57
+   }
+  }
+  Sequence{
+   Name : 2_TOP
+   Initial camera{
+	Up : -1.3662637e-25,1,4.1020698e-10
+    Position : 837675.55,6476160.2,523.80185
+    Center : 837914.75,6476946.2,531.904
+    Dir : 0,0.999,-0.001
+    Roll : 0
+    ViewAngle : 1.57
+   }
+  }
+  Sequence{
+   Name : 3_LEFT
+   Initial camera{
+	Up : -1.3662637e-25,1,4.1020698e-10
+    Position : 837675.55,6476160.2,523.80185
+    Center : 837914.75,6476946.2,531.904
+    Dir : -1,0,0
+    Roll : 0
+    ViewAngle : 1.57
+   }
+  }
+  Sequence{
+   Name : 4_FRONT
+   Initial camera{
+	Up : -1.3662637e-25,1,4.1020698e-10
+    Position : 837675.55,6476160.2,523.80185
+    Center : 837914.75,6476946.2,531.904
+    Dir : 0,0,1
+    Roll : 0
+    ViewAngle : 1.57
+   }
+  }
+  Sequence{
+   Name : 5_BACK
+   Initial camera{
+	Up : -1.3662637e-25,1,4.1020698e-10
+    Position : 837675.55,6476160.2,523.80185
+    Center : 837914.75,6476946.2,531.904
+    Dir : 0,0,-1
+    Roll : 0
+    ViewAngle : 1.57
+   }
+  }
+  Sequence{
+   Name : 6_RIGHT
+   Initial camera{
+	Up : -1.3662637e-25,1,4.1020698e-10
+    Position : 837675.55,6476160.2,523.80185
+    Center : 837914.75,6476946.2,531.904
+    Dir : 1,0,0
+    Roll : 0
+    ViewAngle : 1.57
+   }
+  }
+ }
