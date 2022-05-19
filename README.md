@@ -1,8 +1,10 @@
 
 # Géovisualisations 3D, réalité virtuelle et réalité augmentée au service de la sensibilisation du public au risque d’inondation (2015-2016)
+Short presentation in english can be found here : [https://jacquinod.github.io/FLOODAR/](https://jacquinod.github.io/FLOODAR/).
+
 
 ## Présentation du projet
-Le projet FLOOD AR est un projet scientifique pluridisciplinaire qui vise à la sensibilisation au risque d’inondation des habitants en zones inondables à l’aide de visites 3D interactives visualisables sur des terminaux mobiles et connus du grand public que sont les tablettes et les smartphones. Il est brièvement présenté à l'adresse suivante (en anglais) : https://jacquinod.github.io/FLOODAR/.
+Le projet FLOOD AR est un projet scientifique pluridisciplinaire qui vise à la sensibilisation au risque d’inondation des habitants en zones inondables à l’aide de visites 3D interactives visualisables sur des terminaux mobiles et connus du grand public que sont les tablettes et les smartphones. 
 
 ## Consortium de recherche
 
