@@ -1,5 +1,5 @@
 
-# Géovisualisations 3D, réalité virtuelle et réalité augmentée au service de la sensibilisation du public au risque d’inondation (2015-2016)
+# FLOOD AR : Géovisualisations 3D, réalité virtuelle et réalité augmentée au service de la sensibilisation du public au risque d’inondation (2015-2016)
 Short presentation in english can be found here : [https://jacquinod.github.io/FLOODAR/](https://jacquinod.github.io/FLOODAR/).
 
 
