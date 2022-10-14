@@ -1,2 +1,0 @@
-# FLOODAR
-FLOOD AR project
