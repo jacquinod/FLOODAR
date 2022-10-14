@@ -14,6 +14,8 @@ Le projet a été conduit par la composante EVS-ISTHME de l'UMR CRNS 5600 “Env
 - en sciences de l'information et de la communication de l'équipe Elico de l'EA 4147,
 - en informatique du Laboratoire d'Informatique en Image et Systèmes d'information (LIRIS) de l'UMR CNRS 5205.
 
+![Consortium](assets/FLOOD_AR_Consortium_universitaire.jpg)
+
 
 ## Livrables du projet
 Les méthodes et outils développés dans le cadre du projet sont mis à disposition afin que la démarche puisse être reproduite sur d'autres territoires.
